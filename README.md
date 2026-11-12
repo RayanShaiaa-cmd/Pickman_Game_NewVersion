@@ -16,8 +16,8 @@ A modular, well‑engineered Pac‑Man clone with AI‑controlled ghosts and a p
 
 ```bash
 # Clone the repository
-git clone <repo‑url>
-cd pickman_game
+git clone <https://github.com/RayanShaiaa-cmd/Pickman_Game_NewVersion.git>
+cd Folder_Name (When you clon the repo you will see the name)
 
 # Create a virtual environment (optional but recommended)
 python -m venv venv
@@ -47,3 +47,6 @@ Use the menus to select player mode (manual or AI), map, and difficulty.
 ## License
 
 MIT License – see `LICENSE` for details.
+
+## Author
+Rayan Ebrahim Ali Hadi Shaiaa
