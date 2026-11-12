@@ -37,10 +37,6 @@ Use the menus to select player mode (manual or AI), map, and difficulty.
 
 ## Development
 
-- Run the test suite:
-  ```bash
-  pytest
-  ```
 - Add new maps in `src/pacman_ai/maps/`.
 - Implement new ghost strategies by extending `ai/strategies.py`.
 
